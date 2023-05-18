@@ -1,6 +1,6 @@
 # Convert Geotiff to png
-This code was written when I was playing around the Xview2 dataset for building damage classification.
-I realized most solutions out there were performed on png imageries, but the xbd dataset after extraction was in geotiff format.
+This code was written while I was playing with the Xview2 dataset for building damage classification.
+I realized most solutions were performed on png imageries, but the xbd dataset after extraction was in GeoTIFF format.
 Hence this code
 
 #How to use
